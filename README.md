@@ -4,8 +4,9 @@ How to ask questions a smart way（MCBar Edition）
 然而并没有完全完成。
 
 原作者复制协议（Copying Policy）
+
 值得注意的是，在此复制协议中，this site指原网站，即http://www.catb.org/，而“I”指原作者，即Eric S. Raymond。
-：
+
 Unpleasant but necessary lawyer-fodder: the material on this site is copyright by Eric S. Raymond. Except as granted below and explicitly by licenses on individual documents, all rights under U.S. copyright law and the Berne Convention (where applicable) are reserved.
 I get a lot of letters from people asking if they can link to pages on my site, mirror them, do translations, etc. Here is my policy:
 You may link to any portion of this site that you wish.
