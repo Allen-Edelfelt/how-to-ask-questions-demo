@@ -174,7 +174,7 @@
 祝各位的提问都能获得好的回答:)
 =============
 
-Lovingly made by Edelfelt
+Lovingly made by Edelfelt.
 
 
 
